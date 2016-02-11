@@ -7,7 +7,7 @@
  	~~ UserBranchPatch ~~
 
  Patch bl-instruction of user code
- Refer to UserBranchPatch/UserBranchPatch.c
+ Refer to UserBranchPatch/UserBranchPatch.c. It's for ARM-32.
 
  	Patch from (bl from) to (bl to) in func
 
